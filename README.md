@@ -1,4 +1,4 @@
-Link to the scoreboard deployed with Netlify: https://nimble-manatee-0d7794.netlify.app/](https://voluble-salamander-ac2447.netlify.app/
+Link to the scoreboard deployed with Netlify: https://voluble-salamander-ac2447.netlify.app/
 
 For both home and away teams a user can add 1, 2 or 3 points, in addition to used timeouts and fouls. The user can also add which quarter it is.
 
